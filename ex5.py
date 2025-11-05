@@ -1,0 +1,3 @@
+valor=float(input("Digite um valor "))
+porc=float(valor*0.1)
+print(f"10% de {valor} é {porc}")
